@@ -10,14 +10,14 @@ A significant component of this effort involved utilizing low-power technology, 
 The reliance on SMS for communication also allows feature phones to serve as an effective tool for distributing information. Short Message Service (SMS) is one of the most widely used communication methods in the world, especially in developing regions. It does not require a data plan, and messages can be sent over basic mobile networks, which are often available even in areas with limited infrastructure.
 
 Low-Resource Communities
-Low-resource communities, which are typically defined by limited access to essential services such as healthcare, education, clean water, electricity, and internet connectivity, often struggle to benefit from the latest technological advancements. These communities might be located in remote areas, facing geographical isolation, or dealing with socio-economic challenges that prevent them from accessing modern tools. Additionally, many members of these communities might not have formal education or may have limited literacy, which further complicates the adoption of advanced technologies.
+Low-resource communities, which are typically defined by limited access to essential services such as healthcare, education, clean water, electricity, and internet connectivity, often struggle to benefit from the latest technological advancements. These communities might be located in remote areas, facing geographical isolation, or dealing with socio-economic challenges that prevent them from effectively accessing digital tools. 
 
-In many parts of the world, especially in developing countries, the lack of internet connectivity and digital infrastructure makes it difficult to deploy traditional AI tools, which typically require access to the internet and advanced computational resources. This creates a significant gap, where low-resource communities are excluded from the benefits that new technologies could provide, such as real-time information, healthcare solutions, or environmental monitoring.
+In many parts of the world, the lack of internet connectivity and digital infrastructure makes it difficult to deploy traditional AI tools, which typically require access to the internet and advanced computational resources. This creates a significant gap, where low-resource communities are excluded from the benefits that new technologies offer.
 
-Recognizing this gap, our study aimed to design low-power, local AI tools that could function without the need for internet access or high-performance computing. This ensures that individuals in remote areas, such as the Mau Indigenous Community in Kenya or other similar regions, can access relevant and actionable information on topics like environmental conservation, healthcare, and sustainable farming.
+This study aimed to design low-power, local AI tools that could function without the need for internet access or high-performance computing. 
 
-Developing the Solution: Ollama, Docker, and Open Web UI
-To create these tools, we leveraged a combination of lightweight software solutions designed to operate in environments with limited technological resources. We primarily worked with Ollama, Docker, and Open Web UI to build an open-source AI model that could function effectively without needing constant internet connectivity or advanced hardware.
+Tools:  Ollama, Docker, and Open Web UI
+We primarily worked with Ollama, Docker, and Open Web UI to build an open-source AI model that could function effectively without needing constant internet connectivity or advanced hardware.
 
 Ollama: A tool that allows for the deployment of machine learning models locally on a device. By using Ollama, we were able to ensure that the AI models could operate in a local environment, minimizing the need for cloud infrastructure or continuous internet access.
 
@@ -25,6 +25,6 @@ Docker: A platform used to create and deploy lightweight containers that package
 
 Open Web UI: A web-based interface designed to interact with users through simple, intuitive prompts. Open Web UI allows users to interact with the system and receive relevant information without the need for complex hardware or internet access. This tool was crucial in making the system accessible for people with varying levels of technical expertise.
 
-By training a local AI model based on the Mistral model architecture, we were able to create an AI system that operates offline, using a base model that can be customized to address the specific needs of low-resource communities. The model was designed to handle short text prompts related to important community topics, such as environmental conservation and local agricultural practices..</h3>
+By training an open-source LLM, Sauti Ya Ogiek, a Swahili name that means 'Voice of the Ogiek' with Mistral as a base for the model architecture, we were able to create an AI system that operates offline, and can be customized to address the specific needs of low-resource communities. The model was designed to handle short text prompts related to important Ogiek community topics, such as land rights, environmental conservation, and local agricultural practices.</h3>
 <p align="justify">
 </p>
