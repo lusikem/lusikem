@@ -17,13 +17,7 @@ Low-resource communities, which are typically defined by limited access to essen
 Limited Internet connectivity and digital infrastructure makes it difficult to deploy traditional AI tools, which typically require access to the internet and advanced computational resources. This study aimed to design low-power, local AI tools that could function without the need for internet access or high-performance computing. 
 
 Tools:  Ollama, Docker, and Open Web UI
-We primarily worked with Ollama, Docker, and Open Web UI to build an open-source AI model that could function effectively without needing constant internet connectivity or advanced hardware.
-
-**Ollama:** A tool that allows for the deployment of machine learning models locally on a device. By using Ollama, we were able to ensure that the AI models could operate in a local environment, minimizing the need for cloud infrastructure or continuous internet access.
-
-**Docker:** A platform used to create and deploy lightweight containers that package the necessary software for running AI models. Docker allows for the easy distribution of AI tools that can run on low-powered devices, ensuring that these tools are both portable and efficient, even when working with limited computing resources.
-
-**Open Web UI:** A web-based interface designed to interact with users through simple, intuitive prompts. Open Web UI allows users to interact with the system and receive relevant information without the need for complex hardware or internet access. This tool was crucial in making the system accessible for people with varying levels of technical expertise.
+We primarily worked with Ollama, Docker, and Open Web UI to build an open-source AI model that could function effectively without needing constant internet connectivity or advanced hardware. By using Ollama, we were able to ensure that the AI models could operate in a local environment, minimizing the need for cloud infrastructure or continuous internet access. Docker was useful for creating and deploying lightweight containers for software running AI models. Finally, open Web UI  was crucial in creating a more user friendly platform.
 
 By training an open-source LLM, Sauti Ya Ogiek, a Swahili name that means 'Voice of the Ogiek' with Mistral as a base for the model architecture, we were able to create an AI system that operates offline, and can be customized to address the specific needs of low-resource communities. The model was designed to handle short text prompts related to important Ogiek community topics, such as land rights, environmental conservation, and local agricultural practices.</h3>
 <p align="justify">
