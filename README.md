@@ -1,7 +1,7 @@
 <h1 align="center"> AIG SMS Project</h1>
 <p align="justify"> The AI-Generated (AIG) Short Message Texts (SMS) for Environmental Justice among the Ogiek Indigenous Community project was an initiative to address critical environmental challenges faced by the Mau Indigenous Community in Kenya. The Mau Forest, one of East Africa's largest and most vital water catchment areas, is under severe threat due to deforestation, illegal farming settlements, and the impacts of climate change. These threats directly affect the livelihoods and well-being of the indigenous Ogiek community. The project’s goal is to advance environmental justice by adopting AI-generated Short Text Messaging on feature phones among the Indigenous community in the Mau forest and promote access to information on the Indigenous conservation of forests and the preservation of vital water towers.</h3>
 
-<p align="justify"> The study was driven by a critical need to develop tools that are both low-power and highly accessible for low-resource communities. These communities often face numerous challenges related to technology infrastructure, such as limited or no access to electricity and internet connectivity. The goal of our research was to create solutions that would function effectively in these conditions, ensuring that the benefits of AI-powered technology could be brought to individuals in remote and historically underserved areas, without relying on advanced hardware or internet access.</h3>
+<p align="justify"> The study was driven by a critical need to develop tools that are both low-power and highly accessible for low-resource communities. These communities often face numerous challenges related to technology infrastructure, such as limited or no access to electricity and internet connectivity. The goal of our research was to create solutions that would function effectively in these conditions, ensuring that the benefits of AI-powered technology could be brought to individuals in remote and historically underserved areas without relying on advanced hardware or internet access.</h3>
 <p align="justify">
 
   <p align="justify"> 
@@ -14,9 +14,7 @@ The reliance on SMS for communication also allows feature phones to serve as an 
 **Low-Resource Communities**
 Low-resource communities, which are typically defined by limited access to essential services such as healthcare, education, clean water, electricity, and internet connectivity, often struggle to benefit from the latest technological advancements. These communities might be located in remote areas, facing geographical isolation, or dealing with socio-economic challenges that prevent them from effectively accessing digital tools. 
 
-In many parts of the world, the lack of internet connectivity and digital infrastructure makes it difficult to deploy traditional AI tools, which typically require access to the internet and advanced computational resources. This creates a significant gap, where low-resource communities are excluded from the benefits that new technologies offer.
-
-This study aimed to design low-power, local AI tools that could function without the need for internet access or high-performance computing. 
+Limited Internet connectivity and digital infrastructure makes it difficult to deploy traditional AI tools, which typically require access to the internet and advanced computational resources. This study aimed to design low-power, local AI tools that could function without the need for internet access or high-performance computing. 
 
 Tools:  Ollama, Docker, and Open Web UI
 We primarily worked with Ollama, Docker, and Open Web UI to build an open-source AI model that could function effectively without needing constant internet connectivity or advanced hardware.
@@ -29,8 +27,6 @@ We primarily worked with Ollama, Docker, and Open Web UI to build an open-source
 
 By training an open-source LLM, Sauti Ya Ogiek, a Swahili name that means 'Voice of the Ogiek' with Mistral as a base for the model architecture, we were able to create an AI system that operates offline, and can be customized to address the specific needs of low-resource communities. The model was designed to handle short text prompts related to important Ogiek community topics, such as land rights, environmental conservation, and local agricultural practices.</h3>
 <p align="justify">
-
-  Below are the repositories for the project
 
   
 </p>
