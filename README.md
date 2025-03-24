@@ -29,4 +29,8 @@ We primarily worked with Ollama, Docker, and Open Web UI to build an open-source
 
 By training an open-source LLM, Sauti Ya Ogiek, a Swahili name that means 'Voice of the Ogiek' with Mistral as a base for the model architecture, we were able to create an AI system that operates offline, and can be customized to address the specific needs of low-resource communities. The model was designed to handle short text prompts related to important Ogiek community topics, such as land rights, environmental conservation, and local agricultural practices.</h3>
 <p align="justify">
+
+  Below are the repositories for the project
+
+  
 </p>
