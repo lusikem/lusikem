@@ -22,24 +22,24 @@
 
 Ninashirikiana katika kutengeneza miradi inayolenga kutumia Akili Bandia (AI) kwenye vifaa vya karibu (edge AI), mifumo ya mawasiliano inayotumia umeme mdogo, na miundombinu ya kidijitali kwa ajili ya jamii ambazo mara nyingi husahaulika. Miradi hii hutumia teknolojia huria (open-source LLMs), hufanya kazi bila intaneti, na imeundwa kwa kuzingatia faragha, uaminifu, na umuhimu wa kitamaduni. Miradi hii bado inaendelea kufanyiwa kazi na haijakamilika kwa ajili ya kutolewa kwa umma. Ikiwa una nia ya kushirikiana au kufanya utafiti pamoja, usisite kuwasiliana nami.
 
-AISMS – Mfumo wa ujumbe wa maandishi (SMS) unaotumia AI, ulioboreshwa kwa simu rahisi/kabambe (feature phones).
+- AISMS – Mfumo wa ujumbe wa maandishi (SMS) unaotumia AI, ulioboreshwa kwa simu rahisi/kabambe (feature phones).
 
-Local-AI – Mfumo wa AI unaolinda faragha, unaoweza kufanya kazi bila intaneti na unaweza kufundishwa moja kwa moja kwenye kifaa bila kutegemea huduma za mtandaoni au wingu (cloud).
+- Local-AI – Mfumo wa AI unaolinda faragha, unaoweza kufanya kazi bila intaneti na unaweza kufundishwa moja kwa moja kwenye kifaa bila kutegemea huduma za mtandaoni au wingu (cloud).
 
-HyperLocal-Social – Mtandao wa kijamii wa ndani ya eneo maalum, unaolenga uaminifu, usimamizi wa jamii, na uwezo wa kufanya kazi bila intaneti.
+- HyperLocal-Social – Mtandao wa kijamii wa ndani ya eneo maalum, unaolenga uaminifu, usimamizi wa jamii, na uwezo wa kufanya kazi bila intaneti.
 
 </h3>
   
 
 <h1 align="center"> Projects: </h1>
 
-I'm actively collaborating on a suite of repositories focused on edge AI, low-power communication systems, and digital infrastructure for underrepresented communities. These projects leverage local execution, open-source LLMs, and decentralized design principles to ensure trust, privacy, and cultural relevance. These projects are in active development and not yet ready for public release.  If you're interested in collaboration or research partnerships in these areas, feel free to reach out.
+I'm actively collaborating on a suite of repositories focused on edge AI, low-power communication systems, and digital infrastructure for underrepresented communities. These projects leverage local execution, open-source LLMs, and decentralized design principles to ensure trust, privacy, and cultural relevance. The projects are in active development and not yet ready for public release.  If you're interested in collaboration or research partnerships in these areas, feel free to reach out.
 
-AISMS – AI-enhanced SMS communication system optimized for feature phones.
+- AISMS – AI-enhanced SMS communication system optimized for feature phones.
 
-Local-AI – A privacy-preserving LLM stack for offline inference and on-device fine-tuning without dependence on the internet or cloud services.
+- Local-AI – A privacy-preserving LLM stack for offline inference and on-device fine-tuning without dependence on the internet or cloud services.
 
-HyperLocal-Social – A geofenced, community-first social network emphasizing trust, local moderation, and offline-first capabilities.</h3>
+- HyperLocal-Social – A geofenced, community-first social network emphasizing trust, local moderation, and offline-first capabilities.</h3>
 <p align="justify">
 
   
