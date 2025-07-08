@@ -22,11 +22,13 @@
 
 Ninashirikiana katika kutengeneza miradi ya siri inayolenga kutumia Akili Bandia (AI) kwenye vifaa vya karibu (edge AI), mifumo ya mawasiliano inayotumia umeme mdogo, na miundombinu ya kidijitali kwa ajili ya jamii ambazo mara nyingi husahaulika. Miradi hii hutumia teknolojia huria (open-source LLMs), hufanya kazi bila intaneti, na imeundwa kwa kuzingatia faragha, uaminifu, na umuhimu wa kitamaduni. Ikiwa una nia ya kushirikiana au kufanya utafiti pamoja, usisite kuwasiliana nami.
 
-AISMS – Mfumo wa ujumbe wa maandishi (SMS) unaotumia AI, ulioboreshwa kwa simu rahisi (feature phones).
+AISMS – Mfumo wa ujumbe wa maandishi (SMS) unaotumia AI, ulioboreshwa kwa simu rahisi/kabambe (feature phones).
+
+Local-AI – Mfumo wa AI unaolinda faragha, unaoweza kufanya kazi bila intaneti na unaweza kufundishwa moja kwa moja kwenye kifaa bila kutegemea huduma za mtandaoni au wingu (cloud).
 
 HyperLocal-Social – Mtandao wa kijamii wa ndani ya eneo maalum, unaolenga uaminifu, usimamizi wa jamii, na uwezo wa kufanya kazi bila intaneti.
 
-Local-AI – Mfumo wa AI unaolinda faragha, unaoweza kufanya kazi bila intaneti na unaweza kufundishwa moja kwa moja kwenye kifaa bila kutegemea huduma za mtandaoni au wingu (cloud).</h3>
+</h3>
   
 
 <h1 align="center"> Projects: </h1>
@@ -35,9 +37,9 @@ I'm actively collaborating on a suite of private repositories focused on edge AI
 
 AISMS – AI-enhanced SMS communication system optimized for feature phones.
 
-HyperLocal-Social – A geofenced, community-first social network emphasizing trust, local moderation, and offline-first capabilities.
+Local-AI – A privacy-preserving LLM stack for offline inference and on-device fine-tuning without dependence on the internet or cloud services.
 
-Local-AI – A privacy-preserving LLM stack for offline inference and on-device fine-tuning without dependence on internet or cloud services.</h3>
+HyperLocal-Social – A geofenced, community-first social network emphasizing trust, local moderation, and offline-first capabilities.</h3>
 <p align="justify">
 
   
