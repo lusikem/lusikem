@@ -20,7 +20,7 @@
 
 <h1 align="center"> Miradi: </h1>
 
-Ninashirikiana katika kutengeneza miradi ya siri inayolenga kutumia Akili Bandia (AI) kwenye vifaa vya karibu (edge AI), mifumo ya mawasiliano inayotumia umeme mdogo, na miundombinu ya kidijitali kwa ajili ya jamii ambazo mara nyingi husahaulika. Miradi hii hutumia teknolojia huria (open-source LLMs), hufanya kazi bila intaneti, na imeundwa kwa kuzingatia faragha, uaminifu, na umuhimu wa kitamaduni. Ikiwa una nia ya kushirikiana au kufanya utafiti pamoja, usisite kuwasiliana nami.
+Ninashirikiana katika kutengeneza miradi inayolenga kutumia Akili Bandia (AI) kwenye vifaa vya karibu (edge AI), mifumo ya mawasiliano inayotumia umeme mdogo, na miundombinu ya kidijitali kwa ajili ya jamii ambazo mara nyingi husahaulika. Miradi hii hutumia teknolojia huria (open-source LLMs), hufanya kazi bila intaneti, na imeundwa kwa kuzingatia faragha, uaminifu, na umuhimu wa kitamaduni. Miradi hii bado inaendelea kufanyiwa kazi na haijakamilika kwa ajili ya kutolewa kwa umma. Ikiwa una nia ya kushirikiana au kufanya utafiti pamoja, usisite kuwasiliana nami.
 
 AISMS – Mfumo wa ujumbe wa maandishi (SMS) unaotumia AI, ulioboreshwa kwa simu rahisi/kabambe (feature phones).
 
@@ -33,7 +33,7 @@ HyperLocal-Social – Mtandao wa kijamii wa ndani ya eneo maalum, unaolenga uami
 
 <h1 align="center"> Projects: </h1>
 
-I'm actively collaborating on a suite of private repositories focused on edge AI, low-power communication systems, and digital infrastructure for underrepresented communities. These projects leverage local execution, open-source LLMs, and decentralized design principles to ensure trust, privacy, and cultural relevance. If you're interested in collaboration or research partnerships in these areas, feel free to reach out.
+I'm actively collaborating on a suite of repositories focused on edge AI, low-power communication systems, and digital infrastructure for underrepresented communities. These projects leverage local execution, open-source LLMs, and decentralized design principles to ensure trust, privacy, and cultural relevance. These projects are in active development and not yet ready for public release.  If you're interested in collaboration or research partnerships in these areas, feel free to reach out.
 
 AISMS – AI-enhanced SMS communication system optimized for feature phones.
 
