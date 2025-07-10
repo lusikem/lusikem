@@ -37,7 +37,7 @@ I'm actively collaborating on a suite of repositories focused on edge AI, low-po
 
 - AISMS – AI-enhanced SMS communication system optimized for feature phones.
 
-- Local-AI – A privacy-preserving LLM stack for offline inference and on-device fine-tuning without dependence on the internet or cloud services.
+- Local-AI – An LLM for offline use and local device fine-tuning without dependence on the internet or cloud services.
 
 - HyperLocal-Social – A geofenced, community-first social network emphasizing trust, local moderation, and offline-first capabilities.</h3>
 <p align="justify">
